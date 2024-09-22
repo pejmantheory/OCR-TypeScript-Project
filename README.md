@@ -3,18 +3,19 @@ OCR TypeScript Project
 This project demonstrates how to perform Optical Character Recognition (OCR) using TypeScript. The project integrates Python for image processing tasks using the Tesseract OCR engine and outputs recognized text from various image formats like `.jpg` and `.webp`.
 
 ## Project Structure
-├── TheBalanceLetter.jpg # Sample image to process 
-├── coverletter.webp # Another sample image for OCR 
-├── index.ts # Main TypeScript file to run the project 
-├── ocr.py # Python script for OCR processing using Tesseract 
-├── ocr_output.txt # Output file containing extracted text from images 
-├── processed_image.png # Processed image after OCR operation 
-├── node_modules/ # Project dependencies installed via npm 
-├── package.json # Project configuration and dependencies 
-├── package-lock.json # Lockfile for npm dependencies 
-├── tsconfig.json # TypeScript configuration file 
-├── venv/ # Python virtual environment 
-├── README.md # Project documentation 
+```javascript
+├── TheBalanceLetter.jpg        # Sample image to process
+├── coverletter.webp            # Another sample image for OCR
+├── index.ts                    # Main TypeScript file to run the project
+├── ocr.py                      # Python script for OCR processing using Tesseract
+├── ocr_output.txt              # Output file containing extracted text from images
+├── processed_image.png         # Processed image after OCR operation
+├── node_modules/               # Project dependencies installed via npm
+├── package.json                # Project configuration and dependencies
+├── package-lock.json           # Lockfile for npm dependencies
+├── tsconfig.json               # TypeScript configuration file
+├── venv/                       # Python virtual environment
+```
 
 ## Prerequisites
 Make sure you have the following installed:
