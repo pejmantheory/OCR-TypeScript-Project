@@ -76,8 +76,6 @@ The project uses TypeScript and Tesseract for OCR. Modify the index.ts file to c
 ## TypeScript Configuration
 The project uses a tsconfig.json file for TypeScript settings, ensuring compatibility with modern JavaScript features and Node.js versions.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contributions
 Feel free to open issues or submit pull requests to improve this project.
